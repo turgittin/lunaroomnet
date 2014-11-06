@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<settings
+	duration="12"	
+	transition="cross fade" 
+	auto_slide="true"
+	banner_over_pause="true"
+	banner_clickable="true"	
+	control_type="no action"
+	control_position_x="center"
+	control_position_y="bottom"
+	control_position_padding="50"
+	control_back_color="E6E6E6"
+	control_back_alpha=".35"
+	control_btn_color="B3B3B3"
+	control_btn_color_over="EEB65F"
+	control_txt_color="979797"
+	control_title_color="797979"
+	control_description_color="797979"
+	control_highlighted_txt_color="1a1a1a"
+	control_divider_line_color="B3B3B3"
+	control_video_loaded_color="ffffff"
+	control_video_progress_color="b6b6b6"
+	control_video_clock="797979"
+	back_of_video_color="ff0000"
+	video_close_btn_color="CCCCCC"
+	video_close_btn_color_over="EEB65F"
+	video_buffer = "3"
+	thumb_colorize_color="ffffff"
+	thumb_colorize_color_over="ffffff"
+	thumb_colorize_out="1"
+	thumb_colorize_over="0"
+	thumb_width = "45"
+	thumb_height = "35"
+	thumb_space_between = "10"
+	bottom_drop_shadow_color = "666666"
+	cog_color="cccccc"
+	corner_radius="12"
+>
+
+	<banner>
+		<file>banners/sinemasal-b.jpg</file>
+		<thumb>banners/sinemasal-k.jpg</thumb>
+		<action>link</action>
+		<url>https://vimeo.com/67054596</url>
+
+		<title>SineMASAL Teaser</title>
+		<description>SineMASAL Acik Hava Sinema Festivali Tanitim Filmi</description>
+	</banner>
+
+	<banner>
+		<file>banners/TheBeautyofGemina-b.jpg</file>
+		<thumb>banners/TheBeautyofGemina-k.jpg</thumb>
+		<action>link</action>
+		<url>https://vimeo.com/62630093</url>
+
+		<title>The Beauty of Gemina - Dark Rain</title>
+		<description>Yeni klip İsviçre'li ünlü grup The Beauty of Gemina'ya...</description>
+	</banner>
+
+
+	<banner>
+		<file>banners/yeniturku-b.jpg</file>
+		<thumb>banners/yeniturku-k.jpg</thumb>
+		<action>link</action>
+		<url>music-videos.html</url>
+
+		<title>Yeni Türkü – Eyvallah klibi yayında!</title>
+		<description></description>
+	</banner>
+	
+	
+	<banner>
+		<file>banners/showreel2013-b.jpg</file>
+		<thumb>banners/showreel2013-k.jpg</thumb>
+		<action>link</action>
+		<url>https://vimeo.com/57245777</url>
+
+		<title>Gökçe Pehlivanoğlu Showreel 2013 Ocak</title>
+		<description></description>
+	</banner>
+	
+	<banner>
+		<file>banners/setup2012-b.jpg</file>
+		<thumb>banners/setup2012-k.jpg</thumb>
+		<action>link</action>
+		<url>http://lunaroom.net/blog/setup-fotograf-sergisi-istanbul-kisa-film-festivalinde/</url>
+		<title>SETUP, Galata Fotoğrafhanesi'nde...</title>
+		<description>SETUP Fotoğraf Sergisi, 23 Mart-18 Nisan tarihlerinde Galata Fotoğrafhanesi'nde.</description>	
+	</banner>
+
+	<banner>
+		<file>banners/sinir-b.jpg</file>
+		<thumb>banners/sinir-k.jpg</thumb>
+		<action>link</action>
+		<url>music-videos.html</url>
+
+		<title>Sınır – Düşmemek Adına klibi yayında! </title>
+		<description></description>
+	</banner>
+
+	<banner>
+		<file>banners/aydilge-b.jpg</file>
+		<thumb>banners/aydilge-k.jpg</thumb>
+		<action>link</action>
+		<url>music-videos.html</url>
+		<title>Aydilge – Akıllı Bir Deli</title>
+		<description></description>	
+	</banner>
+
+	
+</settings>
