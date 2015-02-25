@@ -1,48 +1,15 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>LUNAROOM | Gökçe Pehlivanoglu Filmmaker Photographer</title>
-<!--CSS -->
-<link href="./css/style1.css" rel="stylesheet" type="text/css" />
-<link href="./css/colorbox.css" rel="stylesheet" type="text/css" />
-<!--Js -->
-<script type="text/javascript" src="./js/jquery.js"></script>
-<script type="text/javascript" src="./js/cufon-yui.js"></script>
-<script type="text/javascript" src="./js/swiss.js"></script>
-<script type="text/javascript" src="./js/hoverIntent.js"></script>
-<script type="text/javascript" src="./js/functions.js"></script>
-<script type="text/javascript" src="./js/jquery.colorbox.js"></script>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<style type="text/css">
-<!--
-.style1 {
-	color: #FFFFFF;
-	font-weight: bold;
-	font-family: "Century Gothic";
-}
--->
-</style>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-9635500-16']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
+<?php require_once('inc/head.php');?>
 </head>
 <body>
 <!--wrapper -->
 <div id="outer_wrapper">
   <div id="wrapper">
         <!--header -->
-    <div id="header"> <a href="./index.html"><img src="./images/logo2.png" alt="" id="logo" /></a>
+    <div id="header"> <a href="/"><img src="./images/logo2.png" alt="" id="logo" /></a>
       <br /><br /><br /><br /><br /><div id="right_header">
         
         <div>
@@ -56,45 +23,7 @@
       </div>
     </div>
     <!--Menu Area -->
-    <div id="nav">
-      <ul>
-        <li><a href="./index.html">- HOME</a></li>
-        <li><a href="about.html">- ABOUT</a></li>
-        <li><a href="#">- FILMOGRAPHY</a>
-          <ul>
-            <li><a href="music-videos.html">Music Videos</a></li>
-            <li><a href="commercials.html">Commercials</a></li>
-            <li><a href="short-films.html">Short Films</a></li>
-       	  </ul>
-        </li>
-<li><a href="#">- PHOTOGRAPHY</a>
-          <ul>
-            <li><a href="#">PROJECT</a>
-              <ul>
-                <li><a href="familiar-portraits.html">Familiar Portraits</a></li>
-                <li><a href="paris-un-peut-fou.html">Paris Un Peut Fou</a></li>
-
-              </ul>
-            </li>
-
-		<li><a href="portraits.html">Portrait</a></li>
-	        <li><a href="film-set.html">Film Set & Stills</a></li>
-		<li><a href="actor-actress.html">Actor & Actress</a>	</li> 
-      <li><a href="musicians.html">Musician Portfolio</a></li>
-		<li><a href="pergrming-arts.html">Performing Arts</a></li>
-		<li><a href="concerts.html">Concerts</a></li>
-		<li><a href="weddings.html">Wedding</a></li>
-		<li><a href="city-nature.html">City & Nature</a></li>
-		<li><a href="photo-manipuation.html">Photo-Manipulation</a></li>
-
-          </ul>
-        </li>
-
-        <li><a href="./blog">- BLOG</a></li>
-        <li><a href="contact.html">- CONTACT</a></li>
-
-      </ul>
-    </div>
+    <?php require_once('inc/nav.php');?>
     <!--content area -->
     <div id="content">
       <!--banner section -->
@@ -195,13 +124,7 @@
     </div>
   </div>
   <!--footer -->
-  <div id="outer_footer">
-    <div id="footer">
-      <div class="bottom_footer">
-        <p>Copyright &copy; 2011 Gökçe Pehlivanoğlu. All rights reserved.</p>
-        <a href="http://www.turgayozturk.com.tr" target="_blank"><a href="http://www.turgayozturk.com.tr" target="_blank"><img src="./images/turgayozturk-design-studio.png" border="0" /></a></div>
-    </div>
-  </div>
+  <?php require_once('inc/footer.php');?>
   <br class="clear" />
 </div>
 </body>

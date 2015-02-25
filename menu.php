@@ -1,6 +1,6 @@
 ﻿<div id="nav">
 <ul>
-<li><a href="./index.html">- HOME</a></li>
+<li><a href="/">- HOME</a></li>
 <li><a href="about.html">- ABOUT</a></li>
 <li><a href="#">- FILMOGRAPHY</a>
   <ul>

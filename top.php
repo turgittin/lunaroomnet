@@ -1,5 +1,5 @@
 ﻿<div id="header">
-<a href="./index.html"><img src="./images/logo2.png" alt="" id="logo" /></a> <br />
+<a href="/"><img src="./images/logo2.png" alt="" id="logo" /></a> <br />
 <div id="right_header">
 <div>
 	<a href="http://www.facebook.com/pages/Lunaroom-Film/142076982475137" target="_blank"><img src="images/facebook.png" alt="" /></a>
