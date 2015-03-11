@@ -52,7 +52,8 @@
             <p align="left"><strong>Facebook Fan Page:</strong> <a href="http://www.facebook.com/home.php#/pages/Gokce-Pehlivanoglu/51914512003" target="_blank">http://www.facebook.com/home.php#/p ages/Gokce-Pehlivanoglu/51914512003</a></p>
             <p align="left"><strong>Twitter:</strong> <a href="http://twitter.com/#!/GokcePehlvnoglu" target="_blank">http://twitter.com/GokcePehlvnoglu</a></p>
             <p align="left"><strong>MySpace:</strong> <a href="http://www.myspace.com/gokcepehlivanoglu%20" target="_blank">http://www.myspace.com/gokcepehlivanoglu</a></p>
-            <iframe height="551" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="http://turgayozturk.com.tr/form/embed.php?id=15" title=""><a href="http://turgayozturk.com.tr/form/view.php?id=15" title=""></a></iframe>
+            <iframe height="503" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="http://www.pyro.com.tr/form/embed.php?id=27830" title="Lunaroom / İletişim Formu"><a href="http://www.pyro.com.tr/form/view.php?id=27830" title="Lunaroom / İletişim Formu">Lunaroom / İletişim Formu</a></iframe>
+            
           </div>
         </div>
         <br class="clear" />
