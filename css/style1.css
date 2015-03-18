@@ -1838,3 +1838,8 @@ footer section
 #sync2 .synced .item{
   background: #603030;
 }
+
+.carousel-caption {
+  top: 20%;
+  bottom: inherit;
+}
