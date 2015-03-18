@@ -83,7 +83,7 @@ WRAPPER AREA
 */
 #outer_wrapper {
 	width:100%;
-	background:url(../images/bg-body-inner.jpg) repeat-x top;
+	/*background:url(../images/bg-body-inner.jpg) repeat-x top;*/
 }
 #outer_wrapper_inner {
 	width:100%;
@@ -107,7 +107,7 @@ header section
 }
 #header img#logo {
 	float:left;
-	margin-left:10px;
+	margin-left:0px;
 	margin-top:5px;
 }
 #right_header {

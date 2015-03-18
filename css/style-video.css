@@ -107,7 +107,7 @@ header section
 }
 #header img#logo {
 	float:left;
-	margin-left:10px;
+	margin-left:0px;
 	margin-top:5px;
 }
 #right_header {
