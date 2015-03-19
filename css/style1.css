@@ -1839,6 +1839,11 @@ footer section
   background: #603030;
 }
 
+img.desaturate { -webkit-filter: grayscale(100%); filter: grayscale(100%); }
+img.desaturate:hover { -webkit-filter: grayscale(10%); filter: grayscale(10%); }
+#sync2 .synced .item img.desaturate{ -webkit-filter: grayscale(10%); filter: grayscale(10%); }
+
+
 .carousel-caption {
   top: 20%;
   bottom: inherit;
