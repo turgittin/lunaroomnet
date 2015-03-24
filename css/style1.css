@@ -1849,3 +1849,27 @@ img.desaturate:hover { -webkit-filter: grayscale(10%); filter: grayscale(10%); }
   bottom: inherit;
   margin-top: -200px;
 }
+
+
+
+.owl-theme .owl-controls.clickable .owl-buttons div:hover{
+	filter: Alpha(Opacity=100);/*IE7 fix*/
+	opacity: 1;
+	text-decoration: none;
+}
+
+
+ 
+.owl-theme .owl-controls .owl-buttons div {
+  position: absolute;
+}
+ 
+.owl-theme .owl-controls .owl-buttons .owl-prev{
+  left: 0px;
+  top: 110px; 
+}
+ 
+.owl-theme .owl-controls .owl-buttons .owl-next{
+  right: 0px;
+  top: 110px;
+}
